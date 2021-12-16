@@ -840,3 +840,9 @@ span.accent {
   color: #fff;
   border: none;
 }
+
+#mainContent #mainArticle h1.highlight {
+    color: yellow;
+    background: #424242;
+    padding: 0.2em 3em;
+}
